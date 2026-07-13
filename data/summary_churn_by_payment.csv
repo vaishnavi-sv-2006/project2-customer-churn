@@ -1,0 +1,5 @@
+PaymentMethod,ChurnRate
+Electronic check,0.47931303669008585
+Bank transfer (automatic),0.3853738701725555
+Credit card (automatic),0.3803921568627451
+Mailed check,0.35778321108394456
